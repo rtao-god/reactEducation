@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+#post {
+    display: flex;
+    width: 100%;
+    border: 1px red solid;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#idPost {
+    margin-left: 20px;
+}
